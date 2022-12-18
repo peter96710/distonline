@@ -20,7 +20,7 @@
             <input type="number" class="form-control" id="price" placeholder="Price" name="price" required>
         </div>
 
-        <button type="submit" class="btn btn-primary btn-submit">Create Product</button>
+        <button type="submit" class="btn btn-primary btn-store">Create Product</button>
 
     </form>
 
